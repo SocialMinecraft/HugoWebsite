@@ -1,0 +1,56 @@
+[banner]
+enable = true
+image = "images/home_banner.png"
+contents = "_A free_ **Discord Minecraft Community** _where the focus is on the friends we make._"
+[banner.button]
+contents = "Join Discord & Play"
+url = "https://discord.gg/2FmmSQFFNQ"
+
+
+[[items]]
+type = "highlights"
+items_per_row = 2
+[[items.items]]
+title = "Weekly Meetups"
+icon = "fa-calendar-week"
+content = """
+We meetup on discord every **Friday** to hang out and
+play Minecraft.
+"""
+[[items.items]]
+title = "Vanilla SMP"
+icon = "fa-cube"
+content = """
+We keep the primary game mode close to the vanilla experience to make it accessible to all groups.
+"""
+[[items.items]]
+title = "Pop-up Gamemodes"
+icon = "fa-puzzle-piece"
+content = """
+Others game modes are made available by our community for a break from the SMP.
+"""
+[[items.items]]
+title = "Player Driven"
+icon = "fa-headset"
+content = """
+The community is driven by the players for the players.
+"""
+
+
+[[items]]
+type = "heading"
+heading = "Join Us; we don't bite."
+contents = "... much ..."
+
+#[[items]]
+#type = "posts"
+#heading: Recent Posts
+#content_type = "posts"
+#max = 4
+
+[[items]]
+type = "cta"
+contents = "Are you ready explore a new world and make friends?"
+[items.button]
+contents = "Join Now"
+url = "https://discord.gg/2FmmSQFFNQ"

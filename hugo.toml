@@ -1,0 +1,8 @@
+baseURL = 'https://somc.club/'
+languageCode = 'en-us'
+title = 'SoMC: Social Minecraft'
+theme = 'arcana'
+copyright = "© SoMC. All rights reserved"
+
+[params]
+favicon="favicon.png"
