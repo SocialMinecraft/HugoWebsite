@@ -6,3 +6,9 @@ copyright = "© SoMC. All rights reserved"
 
 [params]
 favicon="favicon.png"
+[params.sass]
+outputStyle = "compressed"
+precision = 6
+
+#[build]
+#writeStats = true
